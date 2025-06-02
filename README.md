@@ -25,8 +25,8 @@ I enjoy mentoring teams, optimizing system performance, and integrating robust D
 - 🔭 Currently working on projects at [XCDM Limited](https://xcdm.ai)
 - 💬 Ask me about: **Python, Django, SQL, PostgreSQL, Telegram Bots**
 - 📰 I regularly share insights on [@PythonGuy](https://t.me/PythonGuy)
-- 📫 Reach me at: [ganiyevuzb@gmail.com](mailto:ganiyevuzb@gmail.com)
-- 📄 Learn more about my experience: [Resume](https://github.com/GaniyevUz/GaniyevUz/blob/main/JakhongirGaniev.pdf)
+- 📫 Reach me at: [info@jakhongir.dev](mailto:info@jakhongir.dev)
+- 📄 Learn more about my experience: [Resume](https://jakhongir.dev)
 - 🌐 Check out my personal website: [jakhongir.dev](https://jakhongir.dev)
 
 ---
@@ -52,7 +52,7 @@ Feel free to reach out for **consultation** or **collaborations** on building im
   <a href="https://linkedin.com/in/ganiyevuz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:ganiyevuzb@gmail.com" target="_blank">
+  <a href="mailto:info@jakhongir.dev" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://leetcode.com/ganiyevuz" target="_blank">
