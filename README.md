@@ -132,3 +132,5 @@ Feel free to reach out for **consultation** or **collaborations** on building im
 <p align="center">
    <img src="https://profile-counter.glitch.me/{ganiyevuz}/count.svg" />
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3f3f3f&height=120&section=footer"/>
