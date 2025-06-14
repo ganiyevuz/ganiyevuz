@@ -2,7 +2,6 @@
   <img src="https://github.com/ganiyevuz/GaniyevUz/blob/main/0520.gif?raw=true" alt="Demo" />
 </p>
 
-
 <h1 align="center">Hi 👋, I'm Jakhongir Ganiev</h1>
 <h3 align="center">🔧 Experienced Backend Dev | Python + Django | Team Lead & System Designer | Tech Mentor</h3>
 
@@ -111,18 +110,20 @@ Feel free to reach out for **consultation** or **collaborations** on building im
 
 ### 📊 GitHub Stats
 <p align="center">
-   <img src="https://github-widgetbox.vercel.app/api/profile?username=ganiyevuz&data=followers,repositories,stars,commits&theme=dark"/> 
+   <!--img src="https://github-widgetbox.vercel.app/api/profile?username=ganiyevuz&data=followers,repositories,stars,commits&theme=dark"--/--> 
    <br />
   <img src="https://github-profile-trophy.vercel.app/?username=ganiyevuz&theme=radical" />
   <br /><br />
   <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ganiyevuz&theme=tokyonight" />
   <br />
-  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=GaniyevUz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <br />
-  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaniyevUz&theme=tokyonight&hide_border=true&layout=compact" />
 </p>
 
-
+<div align="center">  
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=ganiyevuz&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=0d1117" alt="ganiyevuz github stats" /> 
+  <img width="37%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganiyevuz&layout=compact&hide_border=true&title_color=ffff&text_color=fff&bg_color=0d1117" />
+</div>
+<!-- ./STATS  -->
+<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=ganiyevuz&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=fff&fire=fff&currStreakLabel=fff" alt="Jakhongir" /></div>
 
 ---
 
