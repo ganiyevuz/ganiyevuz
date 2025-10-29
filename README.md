@@ -110,7 +110,7 @@ Feel free to reach out for **consultation** or **collaborations** on building im
 
 ### 📊 GitHub Stats
 <p align="center">
-   <!--img src="https://github-widgetbox.vercel.app/api/profile?username=ganiyevuz&data=followers,repositories,stars,commits&theme=dark"--/--> 
+   <img src="https://github-widgetbox.vercel.app/api/profile?username=ganiyevuz&data=followers,repositories,stars,commits&theme=dark"> 
    <br />
   <img src="https://github-profile-trophy.vercel.app/?username=ganiyevuz&theme=radical" />
   <br /><br />
@@ -122,15 +122,6 @@ Feel free to reach out for **consultation** or **collaborations** on building im
   <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=ganiyevuz&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=0d1117" alt="ganiyevuz github stats" /> 
   <img width="37%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganiyevuz&layout=compact&hide_border=true&title_color=ffff&text_color=fff&bg_color=0d1117" />
 </div>
-<!-- ./STATS  -->
-<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=ganiyevuz&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=fff&fire=fff&currStreakLabel=fff" alt="Jakhongir" /></div>
-
 ---
-
-### 👁️ Profile Views
-
-<p align="center">
-   <img src="https://profile-counter.glitch.me/{ganiyevuz}/count.svg" />
-</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3f3f3f&height=120&section=footer"/>
