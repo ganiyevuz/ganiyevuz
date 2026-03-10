@@ -17,7 +17,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm a backend engineer with over 4 years of experience, currently leading development efforts at [XCDM Limited](https://xcdm.ai).  
+I'm a backend engineer with over 5 years of experience, currently leading development efforts at [XCDM Limited](https://xcdm.ai).  
 My expertise lies in building scalable, high-performance systems using Python, Django, and PostgreSQL.  
 I enjoy mentoring teams, optimizing system performance, and integrating robust DevOps pipelines.
 
