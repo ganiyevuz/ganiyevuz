@@ -1,8 +1,9 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=180&section=header&text=%3C%20Hello%20World%20%2F%3E&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+
 <p align="center">
   <img src="https://github.com/ganiyevuz/GaniyevUz/blob/main/0520.gif?raw=true" alt="Demo" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Jakhongir Ganiev</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Experienced+Backend+Dev+%7C+Python+%2B+Django;Team+Lead+%26+System+Designer;Tech+Mentor+%7C+Open+Source+Contributor" alt="Typing SVG" />
@@ -16,7 +17,7 @@
   </a>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <p align="center">
   <picture>
@@ -37,7 +38,7 @@ I build and scale backend systems that handle real-world load. Python is my main
 - 📫 Reach me at: [info@jakhongir.dev](mailto:info@jakhongir.dev)
 - 🌐 Resume & website: [jakhongir.dev](https://jakhongir.dev)
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ### 🛠 What I Do
 
@@ -50,7 +51,7 @@ I build and scale backend systems that handle real-world load. Python is my main
 
 Feel free to reach out for **consultation** or **collaborations** on building impactful software solutions.
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ### 📦 Featured Projects
 
@@ -63,7 +64,7 @@ Feel free to reach out for **consultation** or **collaborations** on building im
 | [uzbekistan](https://github.com/ganiyevuz/uzbekistan) | Complete database of Uzbekistan's regions, districts & quarters for Django with multi-language support |
 | [fastapi-telegram-notifier](https://github.com/ganiyevuz/fastapi-telegram-notifier) | Catch FastAPI exceptions and send formatted error reports to Telegram |
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ### 💻 Tech Stack
 
@@ -102,7 +103,15 @@ Feel free to reach out for **consultation** or **collaborations** on building im
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=ganiyevuz&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ### 📈 Contribution Graph
 
@@ -112,19 +121,24 @@ Feel free to reach out for **consultation** or **collaborations** on building im
 
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=ganiyevuz&data=followers,repositories,stars,commits&theme=dark" />
-  <br />
+  <br /><br />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ganiyevuz&theme=tokyonight" />
   <br /><br />
   <img src="https://streak-stats.demolab.com/?user=ganiyevuz&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ganiyevuz&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0d1117" alt="GitHub Stats" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganiyevuz&layout=compact&hide_border=true&title_color=70a5fd&text_color=38bdae&bg_color=0d1117" alt="Top Languages" />
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ### 💬 Dev Quote
 
@@ -132,7 +146,7 @@ Feel free to reach out for **consultation** or **collaborations** on building im
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ### 🌐 Connect with Me
 
@@ -151,6 +165,4 @@ Feel free to reach out for **consultation** or **collaborations** on building im
   </a>
 </p>
 
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3f3f3f&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=120&section=footer"/>
