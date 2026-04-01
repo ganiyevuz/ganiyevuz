@@ -6,6 +6,7 @@
 <h3 align="center">🔧 Experienced Backend Dev | Python + Django | Team Lead & System Designer | Tech Mentor</h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ganiyevuz&style=flat&color=blueviolet" alt="Profile Views" />
   <a href="https://wakatime.com/@ganiyevuz" target="_blank">
     <img src="https://wakatime.com/badge/user/db09ea1e-a9cf-4643-a860-074ea73193d3.svg" alt="Wakatime Badge" />
   </a>
@@ -21,20 +22,18 @@
 
 ### 🧑‍💻 About Me
 
-I'm a backend engineer with over 5 years of experience, currently leading development efforts at [XCDM Limited](https://xcdm.ai).  
-My expertise lies in building scalable, high-performance systems using Python, Django, and PostgreSQL.  
-I enjoy mentoring teams, optimizing system performance, and integrating robust DevOps pipelines.
+I build and scale backend systems that handle real-world load. Python is my main weapon, but I work across the full backend stack — Django, FastAPI, PostgreSQL, Redis, Celery, RabbitMQ, and whatever the problem demands. Currently leading development at [XCDM Limited](https://xcdm.ai), where I architect APIs, optimize infrastructure, and mentor engineering teams.
 
-- 🔭 Currently working on projects at [XCDM Limited](https://xcdm.ai)
-- 💬 Ask me about: **Python, Django, SQL, PostgreSQL, Telegram Bots**
-- 📰 I regularly share insights on [@PythonGuy](https://t.me/PythonGuy)
+- 💬 Ask me about: **Python, Django, FastAPI, SQL, PostgreSQL, Telegram Bots**
+- 📦 Open source contributor & publishing packages on [PyPI](https://pypi.org/user/ganiyevuz/)
+- 📰 Running [@PythonGuy](https://t.me/PythonGuy) — a Python community on Telegram
+- 📍 Based in Uzbekistan
 - 📫 Reach me at: [info@jakhongir.dev](mailto:info@jakhongir.dev)
-- 📄 Learn more about my experience: [Resume](https://jakhongir.dev)
-- 🌐 Check out my personal website: [jakhongir.dev](https://jakhongir.dev)
+- 🌐 Resume & website: [jakhongir.dev](https://jakhongir.dev)
 
 ---
 
-### What I Do:
+### 🛠 What I Do
 
 - **Backend Development**: Building scalable and efficient systems with Python (Django, FastAPI), PostgreSQL, and MySQL.
 - **API Development**: Designing and deploying robust APIs.
@@ -45,12 +44,11 @@ I enjoy mentoring teams, optimizing system performance, and integrating robust D
 
 Feel free to reach out for **consultation** or **collaborations** on building impactful software solutions.
 
-
 ### 🌐 Connect with Me
 
 <p align="center">
   <a href="https://ganiyevuz.t.me" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-1DA1F2?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://linkedin.com/in/ganiyevuz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -111,31 +109,33 @@ Feel free to reach out for **consultation** or **collaborations** on building im
 
 ---
 
-
 ### 📈 Contribution Graph
 
-<div align="center">
+<p align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ganiyevuz&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-   <img src="https://github-widgetbox.vercel.app/api/profile?username=ganiyevuz&data=followers,repositories,stars,commits&theme=dark"> 
-   <br />
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=ganiyevuz&data=followers,repositories,stars,commits&theme=dark" />
+  <br />
   <img src="https://github-profile-trophy.vercel.app/?username=ganiyevuz&theme=radical" />
   <br /><br />
   <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ganiyevuz&theme=tokyonight" />
-  <br />
+  <br /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganiyevuz&theme=tokyonight&hide_border=true" />
 </p>
 
-<div align="center">  
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=ganiyevuz&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=0d1117" alt="ganiyevuz github stats" /> 
+<p align="center">
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=ganiyevuz&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=0d1117" alt="ganiyevuz github stats" />
   <img width="37%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganiyevuz&layout=compact&hide_border=true&title_color=ffff&text_color=fff&bg_color=0d1117" />
-</div>
+</p>
+
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3f3f3f&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3f3f3f&height=120&section=footer"/>
