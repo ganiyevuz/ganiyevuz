@@ -3,7 +3,11 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Jakhongir Ganiev</h1>
-<h3 align="center">🔧 Experienced Backend Dev | Python + Django | Team Lead & System Designer | Tech Mentor</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Experienced+Backend+Dev+%7C+Python+%2B+Django;Team+Lead+%26+System+Designer;Tech+Mentor+%7C+Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ganiyevuz&style=flat&color=blueviolet" alt="Profile Views" />
@@ -48,18 +52,29 @@ Feel free to reach out for **consultation** or **collaborations** on building im
 
 <p align="center">
   <a href="https://ganiyevuz.t.me" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://linkedin.com/in/ganiyevuz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:info@jakhongir.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://leetcode.com/ganiyevuz" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
+
+---
+
+### 📦 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [django-trusted-devices](https://github.com/ganiyevuz/django-trusted-devices) | JWT-based device session management for Django — track, validate, and manage trusted user devices |
+| [django-telegram-notifier](https://github.com/ganiyevuz/django-telegram-notifier) | Catch unhandled Django exceptions and send formatted error reports to Telegram — lightweight Sentry alternative |
+| [uzbekistan](https://github.com/ganiyevuz/uzbekistan) | Complete database of Uzbekistan's regions, districts & quarters for Django with multi-language support |
+| [fastapi-telegram-notifier](https://github.com/ganiyevuz/fastapi-telegram-notifier) | Catch FastAPI exceptions and send formatted error reports to Telegram |
 
 ---
 
@@ -124,18 +139,9 @@ Feel free to reach out for **consultation** or **collaborations** on building im
 <p align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=ganiyevuz&data=followers,repositories,stars,commits&theme=dark" />
   <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=ganiyevuz&theme=radical" />
-  <br /><br />
-  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ganiyevuz&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ganiyevuz&theme=tokyonight" />
   <br /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganiyevuz&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=ganiyevuz&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=0d1117" alt="ganiyevuz github stats" />
-  <img width="37%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganiyevuz&layout=compact&hide_border=true&title_color=ffff&text_color=fff&bg_color=0d1117" />
-</p>
-
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3f3f3f&height=120&section=footer"/>
