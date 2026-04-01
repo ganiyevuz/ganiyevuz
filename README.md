@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=180&section=header&text=%3C%20Hello%20World%20%2F%3E&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=180&section=header&text=Crafting%20Scalable%20Systems&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
 <p align="center">
   <img src="https://github.com/ganiyevuz/GaniyevUz/blob/main/0520.gif?raw=true" alt="Demo" />
