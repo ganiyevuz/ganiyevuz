@@ -54,20 +54,14 @@ Feel free to reach out for **consultation** or **collaborations** on building im
 
 ### 📦 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/ganiyevuz/django-trusted-devices">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ganiyevuz&repo=django-trusted-devices&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/ganiyevuz/django-telegram-notifier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ganiyevuz&repo=django-telegram-notifier&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/ganiyevuz/uzbekistan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ganiyevuz&repo=uzbekistan&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/ganiyevuz/fastapi-telegram-notifier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ganiyevuz&repo=fastapi-telegram-notifier&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+| Project | Description |
+|---------|-------------|
+| [tolov](https://pypi.org/project/tolov/) | Accept payments from every major provider in Uzbekistan with a single API — Payme, Click, Uzum, Paynet, Octo (sync & async) |
+| [django-md-editor](https://github.com/ganiyevuz/django-md-editor) | A GitHub-style markdown editor widget for Django forms and admin |
+| [django-trusted-devices](https://github.com/ganiyevuz/django-trusted-devices) | JWT-based device session management for Django — track, validate, and manage trusted user devices |
+| [django-telegram-notifier](https://github.com/ganiyevuz/django-telegram-notifier) | Catch unhandled Django exceptions and send formatted error reports to Telegram — lightweight Sentry alternative |
+| [uzbekistan](https://github.com/ganiyevuz/uzbekistan) | Complete database of Uzbekistan's regions, districts & quarters for Django with multi-language support |
+| [fastapi-telegram-notifier](https://github.com/ganiyevuz/fastapi-telegram-notifier) | Catch FastAPI exceptions and send formatted error reports to Telegram |
 
 ---
 
