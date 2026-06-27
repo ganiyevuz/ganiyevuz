@@ -9,7 +9,7 @@ on:
     - cron: "0 6 * * *"        # daily at 06:00 UTC
   workflow_dispatch:            # allow manual runs from the Actions tab
   push:
-    branches: [ main ]
+    branches: [ main, readme-improvements ]   # branch entry is temporary — for testing before merge
     paths: [ .github/workflows/metrics.yml ]
 
 permissions:
