@@ -55,14 +55,23 @@ Feel free to reach out for **consultation** or **collaborations** on building im
 
 ### 📦 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| [tolov](https://pypi.org/project/tolov/) | Accept payments from every major provider in Uzbekistan with a single API — Payme, Click, Uzum, Paynet, Octo (sync & async) |
-| [django-md-editor](https://github.com/ganiyevuz/django-md-editor) | A GitHub-style markdown editor widget for Django forms and admin |
-| [django-trusted-devices](https://github.com/ganiyevuz/django-trusted-devices) | JWT-based device session management for Django — track, validate, and manage trusted user devices |
-| [django-telegram-notifier](https://github.com/ganiyevuz/django-telegram-notifier) | Catch unhandled Django exceptions and send formatted error reports to Telegram — lightweight Sentry alternative |
-| [uzbekistan](https://github.com/ganiyevuz/uzbekistan) | Complete database of Uzbekistan's regions, districts & quarters for Django with multi-language support |
-| [fastapi-telegram-notifier](https://github.com/ganiyevuz/fastapi-telegram-notifier) | Catch FastAPI exceptions and send formatted error reports to Telegram |
+| Project | Description | Docs |
+|---------|-------------|------|
+| [django-passkeys](https://github.com/mkalioby/django-passkeys) 🤝 | Django authentication backend for Passkeys (WebAuthn/FIDO2) — *contributor* to this widely-used open-source package (250+ ⭐) | [PyPI](https://pypi.org/project/django-passkeys/) |
+| [tolov](https://github.com/ganiyevuz/Tolov) | Unified payment SDK for Uzbekistan — Payme, Click, Uzum, Paynet, Octo & Multicard. Sync & async, with drop-in Django & FastAPI webhook handlers | [PyPI](https://pypi.org/project/tolov/) |
+| [EasyTarget](https://easytarget.jakhongir.dev/) | Ad-delivery platform that lets Telegram bot developers monetize their bots — forward a Telegram update and EasyTarget serves an eligible ad campaign into the user's chat through your bot, billing the advertiser | [@easytargetbot](https://t.me/easytargetbot) |
+| [backupgram](https://github.com/ganiyevuz/backupgram) | Back up PostgreSQL to the local filesystem with periodic snapshots, automatic rotation, and a Telegram bot that delivers the latest dump — shipped as a Docker image (Go) | [Read the Docs](https://backupgram.readthedocs.io) |
+| [django-backupgram](https://github.com/ganiyevuz/django-backupgram) | Django admin control panel for the backupgram REST API — manage PostgreSQL backups over HTTP | [README](https://github.com/ganiyevuz/django-backupgram#readme) |
+| [django-md-editor](https://github.com/ganiyevuz/django-md-editor) | A GitHub-style markdown editor widget for Django forms and admin | [Docs](https://ganiyevuz.github.io/django-md-editor) |
+| [django-trusted-devices](https://github.com/ganiyevuz/django-trusted-devices) | 🔐 JWT-based trusted-device management for Django — tracks device sessions, enforces device-based login validation, and lets users manage their logged-in devices securely | [Docs](https://ganiyevuz.github.io/django-trusted-devices/) |
+| [django-telegram-notifier](https://github.com/ganiyevuz/django-telegram-notifier) | Catch unhandled Django exceptions and send formatted error reports to Telegram — a lightweight Sentry alternative with full-traceback `.py` attachments, optional DB logging, and async support | [PyPI](https://pypi.org/project/django-telegram-notifier/) |
+| [fastapi-telegram-notifier](https://github.com/ganiyevuz/fastapi-telegram-notifier) | Catch FastAPI exceptions and send formatted error reports to Telegram | [PyPI](https://pypi.org/project/fastapi-telegram-notifier/) |
+| [uzbekistan](https://github.com/ganiyevuz/uzbekistan) | Complete database of Uzbekistan's regions, districts & quarters for Django with multi-language support (Latin, Cyrillic, Russian) | [PyPI](https://pypi.org/project/uzbekistan/) |
+| [django-package-template](https://github.com/ganiyevuz/django-package-template) | A clean, modern template to build and publish reusable Django packages — test setup, linting, CI-ready config, and PyPI publishing out of the box | [README](https://github.com/ganiyevuz/django-package-template#readme) |
+| [vps-monitor](https://github.com/ganiyevuz/vps-monitor) | Full-stack VPS monitoring dashboard for managing cloud infrastructure across multiple providers (Contabo, DigitalOcean) in one unified interface | [README](https://github.com/ganiyevuz/vps-monitor#readme) |
+| [drop-go-files](https://github.com/ganiyevuz/drop-go-files) | File upload & download system with resumable uploads, crash recovery, and media preview support | [Live Demo](https://drop-go-files.vercel.app) |
+| [fresh-server-setup](https://github.com/ganiyevuz/fresh-server-setup) | Automated fresh Linux server bootstrap script — sane defaults, essential tools, and a repeatable workflow for spinning up new servers fast | [README](https://github.com/ganiyevuz/fresh-server-setup#readme) |
+| [dploy](https://github.com/ganiyevuz/dploy) | Simple CLI to deploy frontend builds to remote servers | [README](https://github.com/ganiyevuz/dploy#readme) |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
