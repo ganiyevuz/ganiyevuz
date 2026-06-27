@@ -163,7 +163,14 @@ Feel free to reach out for **consultation** or **collaborations** on building im
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="./assets/metrics.svg" width="68%" alt="Jakhongir's GitHub metrics — activity, languages, lines, habits" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ganiyevuz&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
+    <img width="49%" alt="Jakhongir's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ganiyevuz&show_icons=true&count_private=true&hide_border=true" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ganiyevuz&layout=compact&hide_border=true&theme=tokyonight" />
+    <img width="41%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganiyevuz&layout=compact&hide_border=true" />
+  </picture>
 </p>
 
 <p align="center">
