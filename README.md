@@ -163,14 +163,7 @@ Feel free to reach out for **consultation** or **collaborations** on building im
 ### 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ganiyevuz&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
-    <img width="49%" alt="Jakhongir's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ganiyevuz&show_icons=true&count_private=true&hide_border=true" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ganiyevuz&layout=compact&hide_border=true&theme=tokyonight" />
-    <img width="41%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganiyevuz&layout=compact&hide_border=true" />
-  </picture>
+  <img src="./assets/metrics.svg" alt="Jakhongir's GitHub metrics" />
 </p>
 
 <p align="center">
