@@ -4,23 +4,13 @@ name: Metrics
 # so the README can show stats that ALWAYS load (no dependency on a third-party
 # service being up at view time).
 #
-# One-time setup before this is useful:
-#   1. Create a classic Personal Access Token (no scopes needed for public data;
-#      add the `repo` scope to also count private contributions) at
-#      https://github.com/settings/tokens
-#   2. Add it as a repository secret named METRICS_TOKEN
-#      (repo Settings → Secrets and variables → Actions → New repository secret)
-#   3. Run this workflow once from the Actions tab (workflow_dispatch).
-#   4. Once assets/metrics.svg exists, add it to the README, e.g.:
-#        <img src="./assets/metrics.svg" alt="Metrics" />
-
 on:
   schedule:
     - cron: "0 6 * * *"        # daily at 06:00 UTC
   workflow_dispatch:            # allow manual runs from the Actions tab
   push:
-    branches: [main]
-    paths: [.github/workflows/metrics.yml]
+    branches: [ main ]
+    paths: [ .github/workflows/metrics.yml ]
 
 permissions:
   contents: write
@@ -30,9 +20,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6  # v3.34
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           user: ganiyevuz
           filename: assets/metrics.svg
           template: classic
