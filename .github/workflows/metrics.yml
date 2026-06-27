@@ -5,12 +5,12 @@ name: Metrics
 # service being up at view time).
 #
 on:
-  schedule:
-    - cron: "0 6 * * *"        # daily at 06:00 UTC
-  workflow_dispatch:            # allow manual runs from the Actions tab
-  push:
-    branches: [ main, readme-improvements ]   # branch entry is temporary — for testing before merge
-    paths: [ .github/workflows/metrics.yml ]
+  # Dormant: the metrics card isn't shown in the README right now. Run this
+  # manually from the Actions tab to regenerate assets/metrics.svg, then embed
+  # it in the README. Re-enable the daily schedule below when you display it.
+  workflow_dispatch:
+  # schedule:
+  #   - cron: "0 6 * * *"   # daily at 06:00 UTC
 
 permissions:
   contents: write
